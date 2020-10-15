@@ -1,2 +1,28 @@
+.card {
+  width: 400px;
+  height: 300px;
+  border: 2px grey solid;
+  float: leftt;
+  margin: 20px;
+  padding: 20px;
+  overflow: auto;
+  border-radius: 20px;
+}
 
-background-color: lightyellow;
+.wrap{
+  width: 80%;
+  height: 600px;
+  margin: auto;
+}
+img {
+  width: 150px;
+  display: dlock;
+  margin: auto;
+}
+.but {
+  width: 100px;
+  float: rigth;
+  background-color: pink;
+   padding: 20px;
+  text-align: center;
+}
