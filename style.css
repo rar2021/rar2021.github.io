@@ -2,7 +2,7 @@
   width: 400px;
   height: 300px;
   border: 2px grey solid;
-  float: leftt;
+  float: left;
   margin: 20px;
   padding: 20px;
   overflow: auto;
@@ -16,12 +16,12 @@
 }
 img {
   width: 150px;
-  display: dlock;
+  display: block;
   margin: auto;
 }
 .but {
   width: 100px;
-  float: rigth;
+  float: right;
   background-color: pink;
    padding: 20px;
   text-align: center;
